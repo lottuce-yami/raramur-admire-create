@@ -4,3 +4,6 @@ builds
 # Exclude licensing and description info
 LICENSE
 README.md
+
+# Exclude modpack icon
+icon.png
