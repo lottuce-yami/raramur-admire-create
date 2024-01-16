@@ -4,5 +4,8 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
+# Exclude the installed instances directory
+builds
+
 # Exclude emotes (that crap cannot be packed into a zip)
 emotes
