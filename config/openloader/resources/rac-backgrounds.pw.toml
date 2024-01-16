@@ -10,4 +10,4 @@ url = "https://www.lottuce.moe/rac_v1.3/RAC-Backgrounds.zip"
 [option]
 optional = true
 default = true
-description = "Resourcepack that contains the main menu panorama and loading backgrounds, can be excluded to reduce the overall download size"
+description = "Resourcepack that contains the main menu panorama and loading backgrounds. Can be excluded to reduce the overall download size."

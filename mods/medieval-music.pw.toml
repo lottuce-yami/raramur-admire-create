@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4612835
 project-id = 521932
+
+[option]
+optional = true
+default = true
+description = "A mod that adds atmospheric medieval music to the game. Can be excluded to reduce the overall download size (or if you don't like medieval music, for some reason)."

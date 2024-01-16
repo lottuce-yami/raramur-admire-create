@@ -14,3 +14,5 @@ project-id = 225608
 
 [option]
 optional = true
+default = false
+description = "A mod that helps to build large and complex structures. For example, you can use it to build Create schematics in creative mode more effectively."

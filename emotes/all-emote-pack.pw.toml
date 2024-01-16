@@ -1,0 +1,13 @@
+name = "All Emote Pack"
+filename = "all-emote-pack.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b7a484d0c94ce6be460ce6fd7a75376d8549fac0"
+url = "https://www.lottuce.moe/rac_v1.3/all-emote-pack.zip"
+
+[option]
+optional = true
+default = true
+description = "Emote pack with many emotes that don't necessarily fit the modpack atmosphere. Can be excluded to reduce the overall download size. Note that you need to extract the emotes from the downloaded ZIP."

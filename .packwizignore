@@ -1,2 +1,6 @@
+# Exclude generated modpack builds
+builds
+
+# Exclude licensing and description info
 LICENSE
 README.md
