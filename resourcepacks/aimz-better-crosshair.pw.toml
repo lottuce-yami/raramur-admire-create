@@ -1,0 +1,13 @@
+name = "Aimz - Better Crosshair"
+filename = "Aimz - Better Crosshair.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "7992e56ad666d830c43cb3ec5a08c0d089917ada"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4670750
+project-id = 859798

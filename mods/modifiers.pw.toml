@@ -1,0 +1,13 @@
+name = "Modifiers"
+filename = "Modifiers-forge-1.20.1-0.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d51238fe6ad464da64a2aa386a09b0a73048354c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4636844
+project-id = 347449

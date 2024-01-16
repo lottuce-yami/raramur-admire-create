@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "aquaculture:capitaine"
+    }
+  ],
+  "result": [
+    {
+      "count": 10,
+      "item": "aquaculture:fish_fillet_raw"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

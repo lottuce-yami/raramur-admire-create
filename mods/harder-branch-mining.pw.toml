@@ -1,0 +1,13 @@
+name = "Harder Branch Mining"
+filename = "harderbranchmining-1.20-46.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "554ea997238a2844cee347f246a55de31d5945d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4596245
+project-id = 361427

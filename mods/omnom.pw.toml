@@ -1,0 +1,13 @@
+name = "OmNom"
+filename = "omnom-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecd33e9a460668803ea504f62e21a8a9aed62cc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4729212
+project-id = 908204

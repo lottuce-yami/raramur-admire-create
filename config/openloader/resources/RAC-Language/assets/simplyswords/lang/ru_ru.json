@@ -1,0 +1,172 @@
+{
+  "item.simplyswords.runic_tablet": "Рунический планшет",
+  "item.simplyswords.runefused_gem": "Рунический слитый камень",
+  "item.simplyswords.netherfused_gem": "Незеритовый слитый камень",
+  "item.simplyswords.empowered_remnant": "Могущественный осколок",
+
+
+  "item.simplyswords.iron_longsword": "Железный длинный меч",
+  "item.simplyswords.gold_longsword": "Золотой длинный меч",
+  "item.simplyswords.diamond_longsword": "Алмазный длинный меч",
+  "item.simplyswords.netherite_longsword": "Незеритовый длинный меч",
+  "item.simplyswords.runic_longsword": "Рунический длинный меч",
+
+  "item.simplyswords.iron_twinblade": "Железный парный клинок",
+  "item.simplyswords.gold_twinblade": "Золотой парный клинок",
+  "item.simplyswords.diamond_twinblade": "Алмазный парный клинок",
+  "item.simplyswords.netherite_twinblade": "Незеритовый парный клинок",
+  "item.simplyswords.runic_twinblade": "Рунический парный клинок",
+
+  "item.simplyswords.iron_rapier": "Железная рапира",
+  "item.simplyswords.gold_rapier": "Золотая рапира",
+  "item.simplyswords.diamond_rapier": "Алмазная рапира",
+  "item.simplyswords.netherite_rapier": "Незеритовая рапира",
+  "item.simplyswords.runic_rapier": "Руническая рапира",
+
+  "item.simplyswords.iron_katana": "Железная катана",
+  "item.simplyswords.gold_katana": "Золотая катана",
+  "item.simplyswords.diamond_katana": "Алмазная катана",
+  "item.simplyswords.netherite_katana": "Незеритовая катана",
+  "item.simplyswords.runic_katana": "Руническая катана",
+
+  "item.simplyswords.iron_sai": "Железный сай",
+  "item.simplyswords.gold_sai": "Золотой сай",
+  "item.simplyswords.diamond_sai": "Алмазный сай",
+  "item.simplyswords.netherite_sai": "Незеритовый сай",
+  "item.simplyswords.runic_sai": "Рунический сай",
+
+  "item.simplyswords.iron_spear": "Железное копьё",
+  "item.simplyswords.gold_spear": "Золотое копьё",
+  "item.simplyswords.diamond_spear": "Алмазное копьё",
+  "item.simplyswords.netherite_spear": "Незеритовое копьё",
+  "item.simplyswords.runic_spear": "Руническое копьё",
+
+  "item.simplyswords.iron_glaive": "Железная глефа",
+  "item.simplyswords.gold_glaive": "Золотая глефа",
+  "item.simplyswords.diamond_glaive": "Алмазная глефа",
+  "item.simplyswords.netherite_glaive": "Незеритовая глефа",
+  "item.simplyswords.runic_glaive": "Руническая глефа",
+
+  "item.simplyswords.iron_warglaive": "Железный боевой клинок",
+  "item.simplyswords.gold_warglaive": "Золотой боевой клинок",
+  "item.simplyswords.diamond_warglaive": "Алмазный боевой клинок",
+  "item.simplyswords.netherite_warglaive": "Незеритовый боевой клинок",
+  "item.simplyswords.runic_warglaive": "Рунический боевой клинок",
+
+  "item.simplyswords.iron_cutlass": "Железная сабля",
+  "item.simplyswords.gold_cutlass": "Золотая сабля",
+  "item.simplyswords.diamond_cutlass": "Алмазная сабля",
+  "item.simplyswords.netherite_cutlass": "Незеритовая сабля",
+  "item.simplyswords.runic_cutlass": "Руническая сабля",
+
+  "item.simplyswords.iron_claymore": "Железный клеймор",
+  "item.simplyswords.gold_claymore": "Золотой клеймор",
+  "item.simplyswords.diamond_claymore": "Алмазный клеймор",
+  "item.simplyswords.netherite_claymore": "Незеритовый клеймор",
+  "item.simplyswords.runic_claymore": "Рунический клеймор",
+
+  "item.simplyswords.iron_greathammer": "Железный великий молот",
+  "item.simplyswords.gold_greathammer": "Золотой великий молот",
+  "item.simplyswords.diamond_greathammer": "Алмазный великий молот",
+  "item.simplyswords.netherite_greathammer": "Незеритовый великий молот",
+  "item.simplyswords.runic_greathammer": "Рунический великий молот",
+
+  "item.simplyswords.iron_greataxe": "Железный большой топор",
+  "item.simplyswords.gold_greataxe": "Золотой большой топор",
+  "item.simplyswords.diamond_greataxe": "Алмазный большой топор",
+  "item.simplyswords.netherite_greataxe": "Незеритовый большой топор",
+  "item.simplyswords.runic_greataxe": "Рунический большой топор",
+
+  "item.simplyswords.iron_chakram": "Железная чакра",
+  "item.simplyswords.gold_chakram": "Золотая чакра",
+  "item.simplyswords.diamond_chakram": "Алмазная чакра",
+  "item.simplyswords.netherite_chakram": "Незеритовая чакра",
+  "item.simplyswords.runic_chakram": "Руническая чакра",
+
+  "item.simplyswords.iron_scythe": "Железная коса",
+  "item.simplyswords.gold_scythe": "Золотая коса",
+  "item.simplyswords.diamond_scythe": "Алмазная коса",
+  "item.simplyswords.netherite_scythe": "Незеритовая коса",
+  "item.simplyswords.runic_scythe": "Руническая коса",
+
+  "item.simplyswords.iron_halberd": "Железная алебарда",
+  "item.simplyswords.gold_halberd": "Золотая алебарда",
+  "item.simplyswords.diamond_halberd": "Алмазная алебарда",
+  "item.simplyswords.netherite_halberd": "Незеритовая алебарда",
+  "item.simplyswords.runic_halberd": "Руническая алебарда",
+
+
+  "item.simplyswords.brimstone_claymore": "Бримстоун",
+  "item.simplyswords.firesworditem.tooltip1": "Уникальный эффект: Бримстоун",
+  "item.simplyswords.firesworditem.tooltip2": "Шанс при ударе изрыгнуть вперёд взрывчатую серу.",
+
+  "item.simplyswords.watcher_claymore": "Смотритель",
+  "item.simplyswords.watching_warglaive": "Смотрящий боевой клинок",
+  "item.simplyswords.watchersworditem.tooltip1": "Уникальный эффект: Метка",
+  "item.simplyswords.watchersworditem.tooltip2": "Шанс при ударе разорвать жизнь у",
+  "item.simplyswords.watchersworditem.tooltip3": "цели с ниже чем %d%% HP и выдать её",
+  "item.simplyswords.watchersworditem.tooltip4": "часть как поглощение владельцу.",
+  "item.simplyswords.watchersworditem.tooltip5": "Уникальный эффект: Смотритель",
+  "item.simplyswords.watchersworditem.tooltip6": "Шанс при ударе откачать здоровье",
+  "item.simplyswords.watchersworditem.tooltip7": "ближайших противников, исцеляя владельца.",
+
+  "item.simplyswords.storms_edge": "Штормовой клинок",
+  "item.simplyswords.stormsedgesworditem.tooltip1": "Уникальный эффект: Штормовой рывок",
+  "item.simplyswords.stormsedgesworditem.tooltip2": "Шанс при ударе обновить время перезарядки способности",
+  "item.simplyswords.stormsedgesworditem.tooltip3": "Вы совершаете молниеносный рывок,",
+  "item.simplyswords.stormsedgesworditem.tooltip4": "получая мгновенную неуязвимость,",
+  "item.simplyswords.stormsedgesworditem.tooltip5": "а также скорость и спешку.",
+
+  "item.simplyswords.stormbringer": "Вестник шторма",
+
+  "item.simplyswords.sword_on_a_stick": "Меч на палке",
+
+  "item.simplyswords.bramblethorn": "Шиповник",
+
+  "item.simplyswords.toxic_longsword": "Длинный меч Мора",
+  "item.simplyswords.plaguesworditem.tooltip1": "Уникальный эффект: Чума",
+  "item.simplyswords.plaguesworditem.tooltip2": "Шанс при ударе преобразовать положительные",
+  "item.simplyswords.plaguesworditem.tooltip3": "эффекты в их негативные аналоги.",
+
+  "item.simplyswords.emberblade": "Тлеющий клинок",
+
+  "item.simplyswords.hearthflame": "Пламенное сердце",
+
+  "item.simplyswords.soulkeeper": "Хранитель душ",
+
+  "item.simplyswords.twisted_blade": "Извитой клинок",
+
+  "item.simplyswords.soulstealer": "Похититель душ",
+
+  "item.simplyswords.soulrender": "Душераздиратель",
+
+  "item.simplyswords.soulpyre": "Погребатель душ",
+
+  "item.simplyswords.frostfall": "Морозная метель",
+
+  "item.simplyswords.molten_edge": "Оплавленный край",
+
+  "item.simplyswords.livyatan": "Левиафан",
+
+  "item.simplyswords.icewhisper": "Шёпот льда",
+
+  "item.simplyswords.arcanethyst": "Мистик",
+
+  "item.simplyswords.thunderbrand": "Громовая печать",
+
+  "item.simplyswords.mjolnir": "Мьёльнир",
+
+  "item.simplyswords.slumbering_lichblade": "Дремлющий клинок Лича",
+  "item.simplyswords.waking_lichblade": "Пробуждающийся клинок Лича",
+  "item.simplyswords.awakened_lichblade": "Пробуждённый клинок Лича",
+
+  "item.simplyswords.shadowsting": "Теневое жало",
+
+  "item.simplyswords.dormant_relic": "Дремлющая реликвия",
+  "item.simplyswords.righteous_relic": "Праведная реликвия",
+  "item.simplyswords.tainted_relic": "Порочная реликвия",
+  "item.simplyswords.sunfire": "Солнечный огонь",
+  "item.simplyswords.harbinger": "Предвестник",
+
+  "item.simplyswords.whisperwind": "Шёпот ветра"
+}

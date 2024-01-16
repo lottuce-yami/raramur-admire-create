@@ -1,0 +1,13 @@
+name = "RAC Backgrounds"
+filename = "RAC-Backgrounds.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "10f1a44d224b597e6bc1883f92dc916ddb48e326"
+url = "https://www.lottuce.moe/rac_v1.3/RAC-Backgrounds.zip"
+
+[option]
+optional = true
+default = true
+description = "Resourcepack that contains the main menu panorama and loading backgrounds, can be excluded to reduce the overall download size"

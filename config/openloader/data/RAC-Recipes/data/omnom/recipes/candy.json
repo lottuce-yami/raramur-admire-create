@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "***",
+    "*#*",
+    "***"
+  ],
+  "key": {
+    "#": {
+      "item": "omnom:mini_candy"
+    },
+    "*": {
+      "item": "supplementaries:candy"
+    }
+  },
+  "result": {
+    "item": "omnom:candy",
+    "count": 1
+  }
+}

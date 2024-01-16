@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"l l",
+		"l l",
+		"sls"
+	],
+	"key": {
+		"l": {
+			"item": "minecraft:leather"
+		},
+		"s": {
+			"item": "minecraft:string"
+		}
+	},
+	"result": {
+		"item": "supplementaries:quiver",
+		"count": 1
+	}
+}

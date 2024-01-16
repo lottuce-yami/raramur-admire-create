@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "aquaculture:rainbow_trout"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "aquaculture:fish_fillet_raw"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

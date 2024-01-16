@@ -1,0 +1,13 @@
+name = "Aqua Combat"
+filename = "aquacombat 1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d805e86c1f0b00b25a4f279542d904b029b4333a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4644872
+project-id = 811194

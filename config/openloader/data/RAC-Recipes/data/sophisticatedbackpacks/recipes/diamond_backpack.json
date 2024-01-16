@@ -1,0 +1,31 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "itemRegistryName": "sophisticatedbackpacks:diamond_backpack",
+      "type": "sophisticatedcore:item_enabled"
+    }
+  ],
+  "pattern": [
+    "SSS",
+    "DBD",
+    "lDl"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "B": {
+      "item": "sophisticatedbackpacks:gold_backpack"
+    },
+    "S": {
+      "tag": "minecraft:shulker_boxes"
+    },
+    "l": {
+      "item": "alexsmobs:crocodile_scute"
+    }
+  },
+  "result": {
+    "item": "sophisticatedbackpacks:diamond_backpack"
+  }
+}

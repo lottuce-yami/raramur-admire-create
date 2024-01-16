@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "aquaculture:catfish"
+    }
+  ],
+  "result": [
+    {
+      "count": 6,
+      "item": "aquaculture:fish_fillet_raw"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

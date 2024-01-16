@@ -1,0 +1,34 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "itemRegistryName": "sophisticatedbackpacks:iron_backpack",
+      "type": "sophisticatedcore:item_enabled"
+    }
+  ],
+  "pattern": [
+    "lSl",
+    "XBX",
+    "lIl"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "sophisticatedbackpacks:backpack"
+    },
+    "S": {
+      "tag": "minecraft:shulker_boxes"
+    },
+    "X": {
+      "item": "minecraft:string"
+    },
+    "l": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "sophisticatedbackpacks:iron_backpack"
+  }
+}

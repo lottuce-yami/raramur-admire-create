@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "l",
+    "c",
+    "s"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "c": {
+      "item": "omnom:candy"
+    },
+    "s": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "omnom:omnom_item"
+  }
+}

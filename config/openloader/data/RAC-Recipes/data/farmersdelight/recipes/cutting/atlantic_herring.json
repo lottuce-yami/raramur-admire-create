@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "aquaculture:atlantic_herring"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "aquaculture:fish_fillet_raw"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

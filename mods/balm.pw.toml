@@ -1,0 +1,13 @@
+name = "Balm (Forge Edition)"
+filename = "balm-forge-1.20-7.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9345b52c0d82a450d0ad9bb3ec09d03225b3a028"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4670591
+project-id = 531761

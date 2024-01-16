@@ -1,0 +1,13 @@
+name = "TrimsEffects"
+filename = "trimeffects-1.0.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9039946667c3abbf26c25cd766e3caa6e76b9381"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4577836
+project-id = 870275
