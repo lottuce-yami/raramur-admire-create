@@ -1,0 +1,13 @@
+name = "YUNG's API (Forge)"
+filename = "YungsApi-1.20-Forge-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c90bf9ac408804e18312d4810d07c3e970a04506"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4769522
+project-id = 421850

@@ -2106,6 +2106,11 @@ hash = "d8e6a115c32a6878ef9ab83e1947402fe94a77ea0161c70efdb516a68437366a"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "da4c35340146ae23a6ae0c2a616e4eac2314084d47abfba67aa8e573392b51e5"
+metafile = true
+
+[[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "5c556c564ec742a133672934733fda6ec776e65174035a57fe7db6f82c45580b"
 metafile = true
@@ -2168,6 +2173,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "456748e1b1bdc9f4c411cf332a3e28e9ea57496b009af4aaec85a9615cfd4df6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "04766bb05ab45a66403718eb819a6e61cfe2a35ffe82546e46890cf0a6f9fe52"
 metafile = true
 
 [[files]]
