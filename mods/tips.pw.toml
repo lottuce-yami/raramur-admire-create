@@ -1,13 +1,13 @@
 name = "Tips"
-filename = "Tips-Forge-1.20.1-12.0.2.jar"
+filename = "Tips-Forge-1.20.1-12.0.4.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "2912ca5556c605926ff131c35b8cc965b155c7dc"
+hash = "c6997c86acb285de0641f8f8070822c2b5d25c6d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4714791
+file-id = 4844550
 project-id = 306549

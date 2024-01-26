@@ -1,13 +1,13 @@
 name = "Aqua Combat"
-filename = "aquacombat 1.1.jar"
+filename = "aquacombat 1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d805e86c1f0b00b25a4f279542d904b029b4333a"
+hash = "f4587161d10325d3b5788aa8c80530d888500037"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4644872
+file-id = 4967326
 project-id = 811194

@@ -1,13 +1,13 @@
 name = "REI Plugin Compatibilities (REIPC)"
-filename = "REIPluginCompatibilities-forge-12.0.88.jar"
+filename = "REIPluginCompatibilities-forge-12.0.93.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d3785f17dc8deb9750c394c7c4ee0d1ae0bc7a9"
+hash = "00ba3027cd4942013b22ac07a42f2e0cc6703b8a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4732520
+file-id = 4837449
 project-id = 521393

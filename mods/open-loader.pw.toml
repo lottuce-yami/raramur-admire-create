@@ -1,13 +1,13 @@
 name = "Open Loader"
-filename = "OpenLoader-Forge-1.20.1-19.0.2.jar"
+filename = "OpenLoader-Forge-1.20.1-19.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "731a1c07bd6fa14009b479f65a7b7e73b61e4a12"
+hash = "12769df82c799d7e7a061a212ff95d71675276b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4714771
+file-id = 4780029
 project-id = 354339
