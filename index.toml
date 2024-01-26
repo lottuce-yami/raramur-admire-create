@@ -1489,6 +1489,11 @@ hash = "6b6606cba629513b93efc3785208566165ae53eef400f1767f959af4ba9c901e"
 metafile = true
 
 [[files]]
+file = "mods/biome-music.pw.toml"
+hash = "68dd13757ad2b57d29877665ea98ff1f9d9ec2ff7e5b5dc70589658f9f5794a9"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
