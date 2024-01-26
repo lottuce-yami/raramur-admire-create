@@ -841,14 +841,6 @@ file = "config/openloader/data/RAC-Recipes/data/createaddition/recipes/crafting/
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/data/RAC-Recipes/data/createaddition/recipes/crafting/modular_accumulator_electrum.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/openloader/data/RAC-Recipes/data/createaddition/recipes/crafting/modular_accumulator_gold.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/openloader/data/RAC-Recipes/data/createaddition/recipes/liquid_burning/biofuel.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
