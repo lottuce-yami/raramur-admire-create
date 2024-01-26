@@ -1,0 +1,13 @@
+name = "Blossom Blade"
+filename = "blossom-blade-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c09ec0a5c68808c06af63affa22cff0637febf69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4785334
+project-id = 920268

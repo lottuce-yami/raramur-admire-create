@@ -1504,6 +1504,11 @@ hash = "df534a54b62aefe60ed93335b8ce07821798069e534c9b00eb1e378c72463720"
 metafile = true
 
 [[files]]
+file = "mods/blossom-blade.pw.toml"
+hash = "3302d50174e3713bde5a3f3e84d28a9ccd199c82c5bc94f2f85438e17721bdf0"
+metafile = true
+
+[[files]]
 file = "mods/blossom.pw.toml"
 hash = "3b2818dac78471538aa50299682efa354b18710be1be971441eb1ca784e2e542"
 metafile = true
