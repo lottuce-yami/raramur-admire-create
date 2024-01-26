@@ -1629,6 +1629,11 @@ hash = "23f60d031671337d14d68011dd30ba921abe7f84c3eb8e66c60df0b853c0dd40"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "fb529895a347a9ee0827999259eac9ab2aab28dab9a3045ecd17166787a4a742"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
 metafile = true
@@ -1910,7 +1915,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "465bba8e31e721911145b3e861b3825b56d1bd41bb9a9fe2cfea6a4932c71d85"
+hash = "a325cfd76a1cb9100e0013ff35a2e7ea73a0e0b2b109266fc0fad7b6fbd67d80"
 metafile = true
 
 [[files]]
@@ -1996,11 +2001,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "d2dc0c9ebb5509656f978958c5808c8f0ab127ad751c547354cf5cccee7c9013"
 metafile = true
 
 [[files]]
