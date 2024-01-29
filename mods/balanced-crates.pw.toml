@@ -1,0 +1,13 @@
+name = "Balanced Crates"
+filename = "balanced_crates-1.7.71 (1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9333f73b7c47c0ee2a6e7d9e5963eee8791e489"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5059124
+project-id = 641089

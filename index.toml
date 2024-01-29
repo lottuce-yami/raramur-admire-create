@@ -1446,6 +1446,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/balanced-crates.pw.toml"
+hash = "b6e4a5d3f120ffe07440fa17cca54db50252eabef968511926213c9194c5bdd1"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
