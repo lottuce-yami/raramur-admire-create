@@ -73,10 +73,6 @@ file = "config/biomesoplenty/biome_toggles.json"
 hash = "8bbea3dbb8c9fb3989c9445346d3780bee9c4bd6ea1a28512e587631bd78748d"
 
 [[files]]
-file = "config/biomesoplenty/generation.toml"
-hash = "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7"
-
-[[files]]
 file = "config/carryon-client.toml"
 hash = "5e22bc1810bd2c7aaa6d313664562b3b2ddbf2661481d0ca0f84d83cbd509f8c"
 
@@ -611,7 +607,7 @@ hash = "bd59cb591be2d2fb2c0755cefcc7496f8bd623895fa852a07f10f59931d0c896"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
-hash = "f8eaa7335e212c026b51f0ece3cc0725407f0df35f47b67ba0a1e37435d5cd6c"
+hash = "1ba13627a8f6f9d96c3a163e856aaa09c756f2be1f3072f9aca302fc71c36b8e"
 
 [[files]]
 file = "config/towns_and_towers/structure_rarity_new.json5"
