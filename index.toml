@@ -591,7 +591,7 @@ hash = "1f6cddbcb2d89fbcc774d7bdae9987ccb031ba8fe024307357076ca617b17eeb"
 
 [[files]]
 file = "config/trulytreasures.json"
-hash = "6bca27fa30c7e5808d950f7f100da6eb78379b103f10bc25f1ec2fc348449e61"
+hash = "2dd78e0cb535bf0412e8e8321ef819014e38d9eb0fd2e74137a6a6a88b6f3ad8"
 
 [[files]]
 file = "config/upcycle-client.toml"
