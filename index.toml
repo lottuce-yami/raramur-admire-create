@@ -5,20 +5,8 @@ file = "config/SeasonHUD-client.toml"
 hash = "e1629dea88e07f5d6c9cd18ca29e9d1ad2d4e70b60cda34f160f62d321bb4b38"
 
 [[files]]
-file = "config/adlods-common.toml"
-hash = "f218c1aa951303485234baf88db78b8c6c85f88196207c38acb3b75aae9c7d8b"
-
-[[files]]
-file = "config/advancementplaques-common.toml"
-hash = "ec74e5edf5b4be8a7da6aebd7f136bdd89a808e0bca3bace27eb0b93bb4be911"
-
-[[files]]
 file = "config/alexsmobs.toml"
 hash = "dddd4586a1d88d1e530b8d5bb7ec52f687b8513358c501a21859378f168b3df8"
-
-[[files]]
-file = "config/appleskin-client.toml"
-hash = "e0afa9986caee59b31823c93e40499bb82426a23b2198cbe1cf3e467e55b18e1"
 
 [[files]]
 file = "config/aquaculture-common.toml"
