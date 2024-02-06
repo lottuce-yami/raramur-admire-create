@@ -161,6 +161,10 @@ file = "config/naturescompass-common.toml"
 hash = "5ef9716928a4714caf0f0385b4a520482fc8fcf5036a1989b460577f95b986a4"
 
 [[files]]
+file = "config/nomowanderer-common.toml"
+hash = "729edf0eb31c8942a72bb66e1a3aede865f7aa8b1785b96d5139d6b21cba7612"
+
+[[files]]
 file = "config/oculus.properties"
 hash = "f3bdc28bd9ad09894a76f04df3166862e910ea280b02bc4c20d4dff50f12939f"
 
