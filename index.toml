@@ -1105,11 +1105,6 @@ hash = "f24bcf5bbd1af10cdb7917db6b10c81d0403efed8b2f283e5e861ba48502bea1"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "8ab33c1b36c546b5952497a4f74cece1aa9e2c9d949c233bf67334506a43a652"
-metafile = true
-
-[[files]]
 file = "mods/majrusz-library.pw.toml"
 hash = "a6eb2df15af60776832e014e80a70c0aa686fbf7db9ed1792954f9c8bd43d8a9"
 metafile = true
