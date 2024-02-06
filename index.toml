@@ -10,7 +10,7 @@ hash = "dddd4586a1d88d1e530b8d5bb7ec52f687b8513358c501a21859378f168b3df8"
 
 [[files]]
 file = "config/aquaculture-common.toml"
-hash = "7fde8758963e782932db65caf349ac70dd100970216b2b22a4dd2fd105f92d37"
+hash = "ba8f83a21789a7d360fc90a43804153385929c4e3d931a600a8bd94714f24c6c"
 
 [[files]]
 file = "config/artifacts/client.json5"
