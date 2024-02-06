@@ -39,7 +39,7 @@ GitHub Repository: [NEED TO MAKE ONE]
 		"exclusives": {
 			"pillager_outpost_mediterranean": true,
 			"pillager_outpost_tudor": true,
-			"pillager_outpost_classic": true,
+			"pillager_outpost_classic": false,
 			"pillager_outpost_oriental": true,
 			"pillager_outpost_swedish": true,
 			"pillager_outpost_iberian": true,
@@ -76,7 +76,7 @@ GitHub Repository: [NEED TO MAKE ONE]
 			"village_swedish": true,
 			"village_tudor": true,
 			"village_wandering_trader_camp": true,
-			"village_classic": true,
+			"village_classic": false,
 			"village_rustic": true,
 			"village_iberian": true,
 			"village_nilotic": true
