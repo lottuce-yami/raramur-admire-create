@@ -1771,6 +1771,11 @@ hash = "085ee3df2dfba605682c3d13cd59ad6867b38217dcb792ea5418544e1555e449"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
+metafile = true
+
+[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "cd65b34238623e1f7d8e99d7a0b11422480a7c21714f0bb492dd8a52f122767f"
 metafile = true
