@@ -97,6 +97,10 @@ file = "config/dynamic_lights_reforged.toml"
 hash = "f6147b74ba0d4f0da7154703623a690f90afceb39bea3217f76e45e7ed08eed4"
 
 [[files]]
+file = "config/embeddium-options.json"
+hash = "dcd0c2f1c8d9d6c4dde436b84f564d0d591f9186765cd0bb6a987ec694e6c268"
+
+[[files]]
 file = "config/emotecraft.json"
 hash = "2fa623d32f4875832b34c7464d53a9686701ba0457336e9b008fcf40bd9e3411"
 
