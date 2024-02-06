@@ -602,6 +602,10 @@ file = "config/towns_and_towers/structure_rarity_new.json5"
 hash = "1f6cddbcb2d89fbcc774d7bdae9987ccb031ba8fe024307357076ca617b17eeb"
 
 [[files]]
+file = "config/travelerstitles-forge-1_20.toml"
+hash = "b02f6f97d2977ad08e98fccf900ef8ab44515f9e611efafc050d3fd24c0d7c66"
+
+[[files]]
 file = "config/trulytreasures.json"
 hash = "2dd78e0cb535bf0412e8e8321ef819014e38d9eb0fd2e74137a6a6a88b6f3ad8"
 
