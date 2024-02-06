@@ -69,6 +69,14 @@ file = "config/betterpingdisplay-client.toml"
 hash = "164836730c41628abbd6a1cdc3724c3766d8204d57caa18ec31d1f90472d9326"
 
 [[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "8bbea3dbb8c9fb3989c9445346d3780bee9c4bd6ea1a28512e587631bd78748d"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7"
+
+[[files]]
 file = "config/carryon-client.toml"
 hash = "5e22bc1810bd2c7aaa6d313664562b3b2ddbf2661481d0ca0f84d83cbd509f8c"
 
