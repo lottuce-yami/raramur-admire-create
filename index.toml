@@ -57,12 +57,8 @@ file = "config/bettercombat/server.json5"
 hash = "a4db6db1e9e955060f95c0f02a8c95ae3d5ead7058cd2259a97f5826ef3f1ea6"
 
 [[files]]
-file = "config/betterfpsdist-common.toml"
-hash = "aa1058f5026f26c70c3b842080fc57619ce69baa34f39ad85b4f903add3d2e26"
-
-[[files]]
 file = "config/betterfpsdist.json"
-hash = "371f4a25c65652f254ad563c0be8331f7aa25ffd362dcb2204edbd7bb2dc1670"
+hash = "a924ca8fd82b05bc1150b3df38d560a2733b347fc65751a666614db498b4484f"
 
 [[files]]
 file = "config/betterpingdisplay-client.toml"
