@@ -647,7 +647,7 @@ hash = "dee852bdc810b78dddc81ab77c1c484aae82ccf581efbd4887c26dc841aa5512"
 metafile = true
 
 [[files]]
-file = "defaultconfig/sereneseasons-server.toml"
+file = "defaultconfigs/sereneseasons-server.toml"
 hash = "ce41ae297c8163b04049f4b98502af961b167967660c15bff254248f573bf107"
 
 [[files]]
