@@ -1097,6 +1097,11 @@ hash = "f24bcf5bbd1af10cdb7917db6b10c81d0403efed8b2f283e5e861ba48502bea1"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "d35f82df95be7b038e48f81c290854c19183420a81b8fa5d505c97e23439face"
+metafile = true
+
+[[files]]
 file = "mods/majrusz-library.pw.toml"
 hash = "a6eb2df15af60776832e014e80a70c0aa686fbf7db9ed1792954f9c8bd43d8a9"
 metafile = true
