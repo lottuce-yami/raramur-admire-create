@@ -647,6 +647,10 @@ hash = "dee852bdc810b78dddc81ab77c1c484aae82ccf581efbd4887c26dc841aa5512"
 metafile = true
 
 [[files]]
+file = "defaultconfigs/create_enchantment_industry-server.toml"
+hash = "6f8cb3c2d637cd8d84a1f4aafb43ed6b3e362c964e7f57351991ad9503119d5b"
+
+[[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
 hash = "ce41ae297c8163b04049f4b98502af961b167967660c15bff254248f573bf107"
 
