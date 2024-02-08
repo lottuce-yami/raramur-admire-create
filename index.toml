@@ -26,7 +26,7 @@ hash = "32784fb97639a2af5cef9eae3b47b76b376b8ff5024e31f0b1dac56ea6694c95"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "39b875339db5426fc478445d95fa9864a21011d335d6a190a01901610a226429"
+hash = "21c4f27847bed77b4d13a42ef09b5cfab4ff7f308b8154fc12d09324a3771245"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
