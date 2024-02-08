@@ -385,6 +385,10 @@ file = "config/openloader/data/RAC-Recipes/data/nethersdelight/recipes/iron_mach
 hash = "c22c8eee90bb466ce361deabcee5ecc41ac934558bd175917c508e796794e44d"
 
 [[files]]
+file = "config/openloader/data/RAC-Recipes/data/nomowanderer/recipes/trader_cloth_piece.json"
+hash = "93d20f0ea00f3226df3cbec56c2ced220142f0a4e4225429dcc32473caab38ef"
+
+[[files]]
 file = "config/openloader/data/RAC-Recipes/data/omnom/recipes/candy.json"
 hash = "938e1950955c77fbc158d71d9e352e7c06ef7d78779247f21c4ac1ae148187dd"
 

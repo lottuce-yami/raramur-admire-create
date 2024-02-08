@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"g": {
+			"item": "minecraft:gold_ingot"
+		},
+		"w": {
+			"item": "minecraft:blue_wool"
+		}
+	},
+	"pattern": [
+		"g",
+		"w",
+		"g"
+	],
+	"result": {
+		"item": "nomowanderer:trader_cloth_piece"
+	}
+}
