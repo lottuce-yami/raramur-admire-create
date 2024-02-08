@@ -1,13 +1,13 @@
 name = "Storage Labels"
-filename = "labels-1.20-1.19.jar"
+filename = "labels-1.20-1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3a75b8de2b4f8b9265d7881f60bf5e7353671246"
+hash = "5f4e6e0d97cb34aad89d6bc4b092c2a5e634a167"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4930332
+file-id = 5074206
 project-id = 688223

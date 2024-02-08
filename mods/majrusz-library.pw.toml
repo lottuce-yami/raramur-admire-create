@@ -1,13 +1,13 @@
 name = "Majrusz Library"
-filename = "majrusz-library-forge-1.20.1-7.0.3.jar"
+filename = "majrusz-library-forge-1.20.1-7.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "650374da82a1630dcba8d1b23cc465ab2c7af4d3"
+hash = "5b9e219126501d41727d5c5ac20b0cd3916aaa16"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4986360
+file-id = 5085683
 project-id = 437409
