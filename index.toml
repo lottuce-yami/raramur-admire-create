@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "68dd13757ad2b57d29877665ea98ff1f9d9ec2ff7e5b5dc70589658f9f5794a9"
+hash = "5acaf2810b818ad9030615e27728f94a2e97d890cc047265bbcd8a3b876b5acb"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "fb529895a347a9ee0827999259eac9ab2aab28dab9a3045ecd17166787a4a742"
+hash = "7f0b8a8bf86c0f9d80a6b2ac25f0a7a778251e652414c4822c2c628b904dfab8"
 metafile = true
 
 [[files]]
@@ -1446,7 +1446,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles.pw.toml"
-hash = "da4c35340146ae23a6ae0c2a616e4eac2314084d47abfba67aa8e573392b51e5"
+hash = "0171693cf802f65593b691358beb3929bf5ee6b4dd22bdb2ad018313735ddf11"
 metafile = true
 
 [[files]]
