@@ -1,5 +1,6 @@
 {
 	"values": [
-		"rac:wandering_trader"
+		"rac:wandering_trader",
+		"blessed:tick"
 	]
 }

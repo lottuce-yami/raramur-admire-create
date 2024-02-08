@@ -173,8 +173,12 @@ file = "config/openloader/advanced_options.json"
 hash = "be5b62e698aa1dd0eecc014b8148b1410a01fa0d60f6ede2b14986e8bb587811"
 
 [[files]]
+file = "config/openloader/data/RAC-Functions/data/blessed/functions/tick.mcfunction"
+hash = "b3f1db8b77b0e658e471af937704967fd5a176b4730981a24d02ff8ee294cc96"
+
+[[files]]
 file = "config/openloader/data/RAC-Functions/data/minecraft/tags/functions/tick.json"
-hash = "c9ca39df58c9478a97dc80fdfe07d5c8a79fc74a03396683479e564339ecf3f1"
+hash = "9911a5fe731f01756d7ca9989d641541719087dfaf173faf122694de27563af6"
 
 [[files]]
 file = "config/openloader/data/RAC-Functions/data/rac/functions/add_mending_trade.mcfunction"
@@ -463,6 +467,14 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 [[files]]
 file = "config/openloader/data/RAC-Recipes/pack.mcmeta"
 hash = "47c2913209ed045204a0bfb5fc072dac06748b23deeb92590ee84704a9aefa4d"
+
+[[files]]
+file = "config/openloader/data/RAC-Structures/data/blessed/structures/blessed_blade_spot.nbt"
+hash = "943fa072a8a274557643381e51a692d47d2f2cf9238358720eee62426f0889f5"
+
+[[files]]
+file = "config/openloader/data/RAC-Structures/pack.mcmeta"
+hash = "1bea56348df57737e235d6159c6dd6330c94ba79d56c9ebe071b371d2aeb15ab"
 
 [[files]]
 file = "config/openloader/data/RAC-Tags/data/curios/tags/items/belt.json"
