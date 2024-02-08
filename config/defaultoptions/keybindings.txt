@@ -16,12 +16,12 @@ key_key.command:key.keyboard.slash:NONE
 key_key.socialInteractions:key.keyboard.unknown:NONE
 key_key.screenshot:key.keyboard.f2:NONE
 key_key.togglePerspective:key.keyboard.f5:NONE
-key_key.smoothCamera:key.keyboard.num.lock:NONE
+key_key.smoothCamera:key.keyboard.unknown:NONE
 key_key.fullscreen:key.keyboard.f11:NONE
 key_key.spectatorOutlines:key.keyboard.unknown:NONE
 key_key.swapOffhand:key.keyboard.f:NONE
-key_key.saveToolbarActivator:key.keyboard.unknown:NONE
-key_key.loadToolbarActivator:key.keyboard.unknown:NONE
+key_key.saveToolbarActivator:key.keyboard.c:NONE
+key_key.loadToolbarActivator:key.keyboard.x:NONE
 key_key.advancements:key.keyboard.l:NONE
 key_key.hotbar.1:key.keyboard.1:NONE
 key_key.hotbar.2:key.keyboard.2:NONE
@@ -33,11 +33,11 @@ key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b:NONE
-key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c:NONE
+key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
@@ -49,14 +49,13 @@ key_key.solapplepie.open_food_book:key.keyboard.unknown:NONE
 key_key.corpse.death_history:key.keyboard.unknown:NONE
 key_keys.reblured.toggle:key.keyboard.f10:NONE
 key_key.curios.open.desc:key.keyboard.g:NONE
-key_iris.keybind.reload:key.keyboard.r:NONE
+key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.k:NONE
-key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown:NONE
 key_key.spyglass-improvements.use:key.keyboard.z:NONE
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown:NONE
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown:NONE
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown:NONE
-key_key.zoom:key.keyboard.unknown:NONE
 key_key.emotecraft.fastchoose:key.keyboard.y:NONE
 key_key.emotecraft.stop:key.keyboard.unknown:NONE
 key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
@@ -75,41 +74,46 @@ key_key.inventoryhud.openconfig:key.keyboard.unknown:NONE
 key_key.inventoryhud.togglepot:key.keyboard.unknown:NONE
 key_key.inventoryhud.togglearm:key.keyboard.unknown:NONE
 key_key.inventoryhud.toggleall:key.keyboard.unknown:NONE
-key_Fast Mapping:key.keyboard.unknown:NONE
-key_Baritone Goal Waypoint:key.keyboard.unknown:NONE
-key_Waystones Sync:key.keyboard.unknown:NONE
-key_Persist WM Dim Switch:key.keyboard.unknown:NONE
-key_Transparent Obsidian Roof:key.keyboard.unknown:NONE
-key_Skip Background Render:key.keyboard.unknown:NONE
-key_NewChunks Highlighting:key.keyboard.unknown:NONE
-key_Save/Load NewChunks to Disk:key.keyboard.unknown:NONE
-key_OldChunks Highlighting:key.keyboard.unknown:NONE
-key_OldChunks Inverse:key.keyboard.unknown:NONE
-key_Save/Load OldChunks to Disk:key.keyboard.unknown:NONE
-key_Portal Highlights:key.keyboard.unknown:NONE
-key_PortalSkip Detection:key.keyboard.unknown:NONE
-key_PortalSkip NewChunks:key.keyboard.unknown:NONE
-key_PortalSkip OldChunks Inverse:key.keyboard.unknown:NONE
-key_Prefer Overworld Waypoints:key.keyboard.unknown:NONE
-key_Show Waypoint Distances:key.keyboard.unknown:NONE
-key_null OW Dim Dir:key.keyboard.unknown:NONE
-key_Nether Cave Fix:key.keyboard.unknown:NONE
-key_Cross Dimension Teleport:key.keyboard.unknown:NONE
-key_Show Render Distance:key.keyboard.unknown:NONE
-key_Show Render Distance WorldMap:key.keyboard.unknown:NONE
-key_Always Render Player Name:key.keyboard.unknown:NONE
-key_Always Render Player Icon:key.keyboard.unknown:NONE
-key_Fix Main Entity Dot:key.keyboard.unknown:NONE
-key_Transparent Background:key.keyboard.unknown:NONE
-key_Switch to Nether:key.keyboard.unknown:NONE
-key_Switch to Overworld:key.keyboard.unknown:NONE
-key_Switch to End:key.keyboard.unknown:NONE
-key_Waypoint Beacons:key.keyboard.unknown:NONE
+key_setting.world_map.nether_cave_fix:key.keyboard.unknown:NONE
+key_setting.world_map.fast_mapping:key.keyboard.unknown:NONE
+key_setting.keybinds.switch_to_nether:key.keyboard.unknown:NONE
+key_setting.world_map.waystone_waypoint_set:key.keyboard.unknown:NONE
+key_setting.world_map.waystones_sync:key.keyboard.unknown:NONE
+key_setting.world_map.portal_skip_old_chunks_inverse:key.keyboard.unknown:NONE
+key_setting.world_map.portal_skip_new_chunks:key.keyboard.unknown:NONE
+key_setting.world_map.disable_receiving_waypoints:key.keyboard.unknown:NONE
+key_setting.world_map.transparent_obsidian_roof:key.keyboard.unknown:NONE
+key_setting.keybinds.switch_to_end:key.keyboard.unknown:NONE
+key_setting.world_map.skip_world_render:key.keyboard.unknown:NONE
+key_setting.world_map.portals_save_load_to_disk:key.keyboard.unknown:NONE
+key_setting.minimap.always_render_player_name:key.keyboard.unknown:NONE
+key_setting.world_map.null_overworld_dimension_folder:key.keyboard.unknown:NONE
+key_setting.world_map.new_chunks_highlighting:key.keyboard.unknown:NONE
+key_setting.world_map.disable_waypoint_sharing:key.keyboard.unknown:NONE
+key_setting.world_map.old_chunks_highlighting:key.keyboard.unknown:NONE
+key_setting.world_map.baritone_waypoint:key.keyboard.unknown:NONE
+key_setting.minimap.transparent_background:key.keyboard.unknown:NONE
+key_setting.world_map.old_chunks_save_load_to_disk:key.keyboard.unknown:NONE
+key_setting.world_map.radar_while_dimension_switched:key.keyboard.unknown:NONE
+key_setting.keybinds.switch_to_overworld:key.keyboard.unknown:NONE
+key_setting.world_map.ow_auto_waypoint_dimension:key.keyboard.unknown:NONE
+key_setting.world_map.old_chunks_inverse:key.keyboard.unknown:NONE
+key_setting.world_map.show_waypoint_distances:key.keyboard.unknown:NONE
+key_setting.world_map.persist_dimension_switch:key.keyboard.unknown:NONE
+key_setting.world_map.show_render_distance:key.keyboard.unknown:NONE
+key_setting.world_map.portal_skip_detection:key.keyboard.unknown:NONE
+key_setting.waypoints.waypoint_beacons:key.keyboard.unknown:NONE
+key_setting.world_map.show_render_distance_world_map:key.keyboard.unknown:NONE
+key_setting.world_map.portals:key.keyboard.unknown:NONE
+key_setting.minimap.fix_main_entity_dot:key.keyboard.unknown:NONE
+key_setting.minimap.always_render_player_icon:key.keyboard.unknown:NONE
+key_setting.world_map.new_chunks_save_load_to_disk:key.keyboard.unknown:NONE
 key_gui.xaero_open_map:key.keyboard.m:NONE
 key_gui.xaero_open_settings:key.keyboard.unknown:NONE
 key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE
 key_gui.xaero_map_zoom_out:key.keyboard.unknown:NONE
 key_gui.xaero_quick_confirm:key.keyboard.right.shift:NONE
+key_gui.xaero_toggle_dimension:key.keyboard.unknown:NONE
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown:NONE
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add:NONE
 key_gui.xaero_toggle_slime:key.keyboard.unknown:NONE
@@ -118,7 +122,7 @@ key_gui.xaero_toggle_waypoints:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_map:key.keyboard.unknown:NONE
 key_gui.xaero_enlarge_map:key.keyboard.unknown:NONE
-key_gui.xaero_waypoints_key:key.keyboard.u:NONE
+key_gui.xaero_waypoints_key:key.keyboard.unknown:NONE
 key_gui.xaero_zoom_in:key.keyboard.unknown:NONE
 key_gui.xaero_zoom_out:key.keyboard.unknown:NONE
 key_gui.xaero_new_waypoint:key.keyboard.b:NONE
