@@ -173,6 +173,22 @@ file = "config/openloader/advanced_options.json"
 hash = "be5b62e698aa1dd0eecc014b8148b1410a01fa0d60f6ede2b14986e8bb587811"
 
 [[files]]
+file = "config/openloader/data/RAC-Functions/data/minecraft/tags/functions/tick.json"
+hash = "c9ca39df58c9478a97dc80fdfe07d5c8a79fc74a03396683479e564339ecf3f1"
+
+[[files]]
+file = "config/openloader/data/RAC-Functions/data/rac/functions/add_mending_trade.mcfunction"
+hash = "6158b9afcce59dceab5cd59774805db13f1fe76e5f1bd4d37eb73092bbfbb14f"
+
+[[files]]
+file = "config/openloader/data/RAC-Functions/data/rac/functions/wandering_trader.mcfunction"
+hash = "b9b7d395e97b8bb7bed9a5b6e184e6de1a2797bcdebefaa14a7ed3eaedd14c1a"
+
+[[files]]
+file = "config/openloader/data/RAC-Functions/pack.mcmeta"
+hash = "64676a357fcff681c24147aaebed7eb453d8a5b9848d1158648c13b742e26e15"
+
+[[files]]
 file = "config/openloader/data/RAC-Loot_Tables/data/artifacts/loot_tables/artifact.json"
 hash = "77deb615971c41f7980ac2aa267b75806d82e0784cac14f4889ac20c22dbc0b2"
 

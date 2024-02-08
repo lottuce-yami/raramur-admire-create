@@ -1,0 +1,1 @@
+execute as @e[type=wandering_trader, tag=!rac] run function rac:add_mending_trade

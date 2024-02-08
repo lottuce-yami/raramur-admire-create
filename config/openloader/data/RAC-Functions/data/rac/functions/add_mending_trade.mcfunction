@@ -1,0 +1,2 @@
+data modify entity @s Offers.Recipes prepend value {buy:{id:"minecraft:emerald",Count:64b},sell:{id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:mending",lvl:1s}]},Count:1b},rewardExp:1b,maxUses:1}
+tag @s add rac
