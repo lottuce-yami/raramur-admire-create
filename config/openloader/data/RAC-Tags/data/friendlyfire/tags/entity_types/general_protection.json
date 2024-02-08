@@ -1,0 +1,12 @@
+{
+	"values": [
+		"minecraft:villager",
+		"minecraft:iron_golem",
+		"guardvillagers:guard",
+		"minecraft:wandering_trader",
+		"minecraft:trader_llama",
+		"minecraft:horse",
+		"minecraft:wolf",
+		"minecraft:cat"
+	]
+}

@@ -457,6 +457,10 @@ file = "config/openloader/data/RAC-Tags/data/forge/tags/items/raw_fishes.json"
 hash = "ad88b8fd0922daee103dcd043ee2f7280af82c4ed1815b8e4e4471709ffbb88b"
 
 [[files]]
+file = "config/openloader/data/RAC-Tags/data/friendlyfire/tags/entity_types/general_protection.json"
+hash = "177d2212eeec0d7b35b6ecefdab156ea408cdfebdeaafc8cc274129d75189bea"
+
+[[files]]
 file = "config/openloader/data/RAC-Tags/pack.mcmeta"
 hash = "f85ce9a79617baada99fe439bbc40392c6b5bd04d4afb38c052a0a5d7cdfcbe9"
 
