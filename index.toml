@@ -209,6 +209,10 @@ file = "config/openloader/data/RAC-Recipes/data/create/recipes/splashing/crushed
 hash = "97406e29836a9a890908f147dee63be2cc767acc6e0b58af8be10d142c841fa2"
 
 [[files]]
+file = "config/openloader/data/RAC-Recipes/data/create_enchantment_industry/recipes/crafting/enchanting_guide.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/openloader/data/RAC-Recipes/data/createaddition/recipes/crafting/barbed_wire.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
