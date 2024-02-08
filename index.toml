@@ -909,6 +909,11 @@ hash = "e297fdb7786974314dffa4d0ed28736d1746543f6ba48377b630d282fa797caf"
 metafile = true
 
 [[files]]
+file = "mods/curious-armor-stands.pw.toml"
+hash = "d702a85a0f7969ea72b511dd6d0b5380d31b10b6941c90311785a3596b7bf385"
+metafile = true
+
+[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "ed4df500473000f48e15517cdaaf8d85af7a4b40f1f346c6d9f0f4ca5fd5fd15"
 metafile = true
