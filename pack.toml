@@ -1,12 +1,12 @@
 name = "Raramur: Admire & Create"
 author = "lottuce_yami"
-version = "1.3"
+version = "1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e03ff736bd7ba923359a2d7e0800acb464e5d1cdbfccbfb5e655ce2091fcb07e"
+hash = "00f80ef0cd2e31c8d3435a7ed995c52f58de5bd5c53605a0212b31aba00ef9ca"
 
 [versions]
 forge = "47.2.0"

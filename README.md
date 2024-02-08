@@ -10,13 +10,13 @@ IMPORTANT: This will install the modpack with the latest changes from this repos
 If you simply want to check the integrity of the repository, download [packwiz](https://github.com/packwiz/packwiz) and run `packwiz cf export -o raramur-admire-create.zip` to get the modpack in CurseForge format and compare it with the released version.
 
 ### Client-side
-1. Prepare the folder where you want to install the modpack: create an empty Prism Launcher or MultiMC instance with Minecraft of version `1.20.1` and Forge of version `47.1.0`.
+1. Prepare the folder where you want to install the modpack: create an empty Prism Launcher or MultiMC instance with Minecraft of version `1.20.1` and Forge of version `47.2.0`.
 2. Download the latest release of [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap) and put it in the instance folder.
-3. Run `java -jar packwiz-installer-bootstrap.jar -s client https://lottuce-yami.github.io/pack.toml`.
+3. Run `java -jar packwiz-installer-bootstrap.jar -s client https://lottuce-yami.github.io/raramur-admire-create/pack.toml`.
 4. Proceed with the GUI, check the desired optional mods, and manually install any mods that are excluded from the API.
 
 ### Server-side
-1. Prepare the folder where you want to install the modpack: download the Forge server core of version `47.1.0` and install it.
+1. Prepare the folder where you want to install the modpack: download the Forge server core of version `47.2.0` and install it.
 2. Download the latest release of [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap) and put it in the server folder.
-3. Run `java -jar packwiz-installer-bootstrap.jar -g -s server https://lottuce-yami.github.io/pack.toml`.
+3. Run `java -jar packwiz-installer-bootstrap.jar -g -s server https://lottuce-yami.github.io/raramur-admire-create/pack.toml`.
 4. Read the console and manually install any mods that are excluded from the API.
